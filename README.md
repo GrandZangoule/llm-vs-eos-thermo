@@ -1,6 +1,11 @@
 # LLM vs EOS Thermodynamics
 
-This project compares classical thermodynamic models with AI-driven predictions.
+🧪🧠📊🌡️This project compares classical thermodynamic models with AI-driven predictions.
+
+🧪 – Thermodynamic systems and EOS modeling
+🧠 – AI/LLM intelligence
+📊 – Data analysis, predictions, visualization
+🌡️ – Key thermodynamic variables (T, P, etc.)
 
 ## 📌 Features
 - Vapor–liquid equilibrium (VLE) calculations
